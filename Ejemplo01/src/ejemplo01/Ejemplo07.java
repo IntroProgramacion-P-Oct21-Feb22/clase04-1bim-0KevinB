@@ -7,7 +7,7 @@ package ejemplo01;
 
 /**
  *
- * @author reroes
+ * @author 0KevinB
  */
 public class Ejemplo07 {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class Ejemplo07 {
         
         System.out.printf("El resultados es: %f\n", resultado);
         
-        System.out.printf("El resultados es: %.2f\n", resultado);
+        System.out.printf("El resultados es: %.3f\n", resultado);
               
     }
 }

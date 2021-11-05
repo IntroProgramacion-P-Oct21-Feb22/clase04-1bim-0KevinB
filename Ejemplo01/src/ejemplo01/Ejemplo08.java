@@ -7,7 +7,7 @@ package ejemplo01;
 
 /**
  *
- * @author reroes
+ * @author 0KevinB
  */
 public class Ejemplo08 {
     public static void main(String[] args) {

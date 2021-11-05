@@ -7,7 +7,7 @@ package ejemplo01;
 
 /**
  *
- * @author reroes
+ * @author 0KevinB
  */
 public class Ejemplo01 {
 
@@ -17,7 +17,7 @@ public class Ejemplo01 {
     public static void main(String[] args) {
         // Ejemplo 
         String nombreEstudiante;
-        nombreEstudiante = "René Elizalde";
+        nombreEstudiante = "Kevin Barrazueta";
         System.out.println(nombreEstudiante);
     }
     
